@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I am a Fronend Developer, oriented to the web, W3C technologies, open standards and Free Software.
+<div>
+<img src="http://sergiogimenez.com/img/logoSergio.png" width=150px />
+  </div>
 <!--
 **gimenezsergio/gimenezsergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
